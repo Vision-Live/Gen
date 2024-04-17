@@ -1,6 +1,6 @@
-I have worked at a senior level in housing for over 20 years including 10 years as Chief Executive of TPAS and 2 years as Executive Director of Tenant Services at the Social Housing Regulator. I currently work as an independent consultant specialising in tenant scrutiny and involvement and as a non-executive in housing and health, including being Chair of Healthwatch Salford.
+I have worked at a senior level in housing for over 25 years including 10 years as Chief Executive of ‘TPAS’ and 2 years as Executive Director of Tenant Services at the Regulator of Social Housing where I authored the then consumer standards. I currently work as an independent consultant specialising in tenant scrutiny and involvement and as a non-executive in housing and health, including being Chair of ‘Healthwatch Salford’ and the Vice Chair of the Guinness Partnership Board.
 
-'Executive Experience'
+##Executive Experience
 
 2010 to date Director, Phil Morgan Limited
 
@@ -24,7 +24,7 @@ I was responsible for running TPAS, the leading body for tenant involvement cons
 
 Sponsor manager for the Liverpool Housing Action Trust (HAT) and leading setting up the North West Development Agency (both NDPBs).
 
-'Non-Executive Experience'
+##Non-Executive Experience
 
 Guinness Partnership Board Member from 2017, Chair of Service and Performance Committee from 2019, Remunerations and Nominations Committee from 2019
 Chair of Healthwatch Salford from 2016
@@ -44,7 +44,7 @@ Vice President of Trafford Credit Union 1998 to 2001
 Trafford MBC Councillor 1986 to 1987 and 1988 to 1992
 I have published eight versions of Learning from Regulatory Downgrades. These bring together lessons from downgrades issued by the Regulator of Social Housing.
 
-'Qualifications'
+##Qualifications
 
 Chartered Institute of Housing Distinguished Professional 2008
 Mersey Common Purpose Graduate 1997
